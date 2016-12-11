@@ -1,10 +1,10 @@
 ---
-layout: post
 title: This is a Draft
-category: Meta
-
+date: 2016-12-11 04:25:06.033000000 Z
+categories:
+- Meta
+layout: post
 excerpt: A sample draft post.
-
 ---
 
 This is just a sample draft post.
